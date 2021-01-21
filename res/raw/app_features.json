@@ -342,7 +342,7 @@
             ]
         },
         {
-            "device": "ocean",
+            "device": "surnia,owens,perry,sperry,nora,nora_8917,hannah,rhannah,ahannah,pettyl,rjames,james",
             "features": [
                 {"feature": "CDS_DEFAULT_ON"},
                 {"feature": "CINEMAGRAPH"},
@@ -361,18 +361,78 @@
             ]
         },
         {
-            "device": "channel",
+            "device": "falcon,peregrine,titan,thea,osprey,merlin,athene,harpia,potter,cedric,montana,ejeter,jeter,aljeter,jeterl",
             "features": [
                 {"feature": "CDS_DEFAULT_ON"},
+                {"feature": "CINEMAGRAPH"},
                 {"feature": "FILE_FORMAT"},
                 {"feature": "RETAIN_ZOOM_LEVEL"},
                 {"feature": "LIB_3A", "value": "1"}, //0: moto, 1: qcom or mtk, 2: samsung
                 {"feature": "PRO_MODE"},
                 {"feature": "PRO_MODE_NEW_FEATURES"},
+                {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "SELECTIVE_COLOR"},
-                {"feature": "SHOW_FILTER_DOT"},
                 {"feature": "SINGLE_REAR_BOKEH"},
                 {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "YOUTUBE_LIVE"}
+            ]
+        },
+        {
+            "device": "victara,shamu,clark,lux,kinzie",
+            "features": [
+                {"feature": "CDS_DEFAULT_ON"},
+                {"feature": "CINEMAGRAPH"},
+                {"feature": "FILE_FORMAT"},
+                {"feature": "RETAIN_ZOOM_LEVEL"},
+                {"feature": "LIB_3A", "value": "1"}, //0: moto, 1: qcom or mtk, 2: samsung
+                {"feature": "PRO_MODE"},
+                {"feature": "PRO_MODE_NEW_FEATURES"},
+                {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
+                {"feature": "SELECTIVE_COLOR"},
+                {"feature": "SINGLE_REAR_BOKEH"},
+                {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "YOUTUBE_LIVE"}
+            ]
+        },
+        {
+            "device": "addison,griffin,albus",
+            "features": [
+                {"feature": "CDS_DEFAULT_ON"},
+                {"feature": "CINEMAGRAPH"},
+                {"feature": "FILE_FORMAT"},
+                {"feature": "RETAIN_ZOOM_LEVEL"},
+                {"feature": "LIB_3A", "value": "1"}, //0: moto, 1: qcom or mtk, 2: samsung
+                {"feature": "PRO_MODE"},
+                {"feature": "PRO_MODE_NEW_FEATURES"},
+                {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
+                {"feature": "SELECTIVE_COLOR"},
+                {"feature": "SINGLE_REAR_BOKEH"},
+                {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "YOUTUBE_LIVE"}
+            ]
+        },
+        {
+            "device": "ocean,channel",
+            "features": [
+                {"feature": "CDS_DEFAULT_ON"},
+                {"feature": "CINEMAGRAPH"},
+                {"feature": "FILE_FORMAT"},
+                {"feature": "RETAIN_ZOOM_LEVEL"},
+                {"feature": "LIB_3A", "value": "1"}, //0: moto, 1: qcom or mtk, 2: samsung
+                {"feature": "PRO_MODE"},
+                {"feature": "PRO_MODE_NEW_FEATURES"},
+                {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
+                {"feature": "SELECTIVE_COLOR"},
+                {"feature": "SINGLE_REAR_BOKEH"},
+                {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "SHOW_FILTER_DOT"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
