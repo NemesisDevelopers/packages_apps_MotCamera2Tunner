@@ -23,6 +23,7 @@
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "YOUTUBE_LIVE"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "MONO_LOW_LIGHT"}
             ]
         },
@@ -46,6 +47,7 @@
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
                 {"feature": "UBI_FOCUS"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -76,6 +78,7 @@
                 {"feature": "PORTRAIT_EDITOR_NOTIFICATION", "variant": "sprout"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "UW_PANORAMA"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
         },
@@ -99,6 +102,7 @@
                 {"feature": "ZOOM_CROP_FULL_HEIGHT"},
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -126,6 +130,7 @@
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
                 {"feature": "SHOW_SUPER_NIGHT_DOT"},
                 {"feature": "BG_SERVICE_PROCESSING"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
@@ -148,6 +153,7 @@
                 {"feature": "SMART_COMPOSITION"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "YOUTUBE_LIVE"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
         },
@@ -168,6 +174,7 @@
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
                 {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -190,6 +197,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
@@ -215,6 +223,7 @@
                 {"feature": "SMART_COMPOSITION"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "EDITOR_LAYER"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
@@ -239,6 +248,7 @@
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "YOUTUBE_LIVE"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
         },
@@ -267,6 +277,7 @@
                 {"feature": "ZOOM_CROP_FULL_HEIGHT"},
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -293,6 +304,7 @@
                 {"feature": "UBI_FOCUS"},
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -320,6 +332,7 @@
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -345,6 +358,7 @@
                 {"feature": "ZOOM_CROP_FULL_HEIGHT"},
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
@@ -365,6 +379,7 @@
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -384,6 +399,7 @@
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -403,6 +419,7 @@
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -422,6 +439,7 @@
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -441,6 +459,7 @@
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -469,6 +488,7 @@
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
         },
@@ -493,6 +513,7 @@
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
                 {"feature": "SHOW_SUPER_NIGHT_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "SINGLE_REAR_BOKEH"},
                 {"feature": "BG_SERVICE_PROCESSING"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
@@ -514,6 +535,7 @@
                 {"feature": "GESTURE_CAPTURE"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "RELIGHTING"},
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
@@ -534,6 +556,7 @@
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SINGLE_REAR_BOKEH"},
                 {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
@@ -562,6 +585,7 @@
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
                 {"feature": "BG_SERVICE_PROCESSING"},
                 {"feature": "EDITOR_LAYER"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "ZOOM_BLENDING_VIDEO"},
                 {"feature": "YOUTUBE_LIVE"}
@@ -592,6 +616,7 @@
                 {"feature": "BG_SERVICE_PROCESSING"},
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "HDR_PRO"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "ZOOM_BLENDING_VIDEO"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "YOUTUBE_LIVE"}
@@ -616,6 +641,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "EXTERNAL_MIC"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
@@ -642,6 +668,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "MCF_SN_TRIGGER", "value": "-1"},
@@ -672,6 +699,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "EXTERNAL_MIC"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
@@ -698,6 +726,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "EXTERNAL_MIC"},
                 {"feature": "YOUTUBE_LIVE"}
@@ -723,6 +752,7 @@
                 {"feature": "RELIGHTING"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "YOUTUBE_LIVE"}
             ]
@@ -788,6 +818,7 @@
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
                 {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
@@ -998,6 +1029,7 @@
                 {"feature": "SUPER_NIGHT", "value": "60"},
                 {"feature": "SELECTIVE_COLOR"},
                 {"feature": "SMART_COMPOSITION"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_SIZE_LIMIT_WIDTH", "value": "1920"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "FULL_FACE_DETECT_HIDDEN"}
