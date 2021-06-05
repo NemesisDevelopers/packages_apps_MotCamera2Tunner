@@ -1,2 +1,2 @@
-# motorola_camera2_overlay
+# Moto Camera 2 Tunner
 

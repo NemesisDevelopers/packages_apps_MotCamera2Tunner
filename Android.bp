@@ -1,5 +1,5 @@
 android_app {
-    name: "MotCamera2-overlay",
+    name: "MotCamera2Tunner",
     resource_dirs: ["res"],
     asset_dirs: ["assets"],
     sdk_version: "current",
