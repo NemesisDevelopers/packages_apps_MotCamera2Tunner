@@ -1032,7 +1032,8 @@
                 {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "VIDEO_SIZE_LIMIT_WIDTH", "value": "1920"},
                 {"feature": "VIDEO_TIMELAPSE"},
-                {"feature": "FULL_FACE_DETECT_HIDDEN"}
+                {"feature": "FULL_FACE_DETECT_HIDDEN"},
+                {"feature": "YOUTUBE_LIVE"}
             ]
         },
         {
