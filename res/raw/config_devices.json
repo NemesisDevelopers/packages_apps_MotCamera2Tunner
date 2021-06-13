@@ -806,7 +806,7 @@
     "focus-timeout-dur-flash": 5000,
     "set-repeating-send-error-delay": 1000,
     "disable-zsl-on-scenes" : ["HDR_NO_ADRC", "SF_BOKEH", "HDR", "HDR_ADVANCED", "SUPER_NIGHT", "RELIGHTING",
-                               "SUPER_PORTRAIT", "FLASH", "DISPLAY_FLASH"],
+                               "SUPER_PORTRAIT", "FLASH"],
     "torch-control-enable" :   [false,     false,     false]
   },
   "sanders" : {
@@ -869,7 +869,7 @@
     "focus-timeout-dur-flash": 5000,
     "set-repeating-send-error-delay": 1000,
     "disable-zsl-on-scenes" : ["HDR_NO_ADRC", "SF_BOKEH", "HDR", "HDR_ADVANCED", "SUPER_NIGHT", "RELIGHTING",
-                               "SUPER_PORTRAIT", "FLASH", "DISPLAY_FLASH"],
+                               "SUPER_PORTRAIT", "FLASH"],
     "torch-control-enable" :   [false,     false,     false]
   },
   "river" : {

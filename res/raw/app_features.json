@@ -23,7 +23,6 @@
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
                 {"feature": "YOUTUBE_LIVE"},
-                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "MONO_LOW_LIGHT"}
             ]
         },
@@ -358,7 +357,6 @@
                 {"feature": "ZOOM_CROP_FULL_HEIGHT"},
                 {"feature": "BRACKET_SIZE_FIXED"},
                 {"feature": "EDITOR_LAYER"},
-                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
                 {"feature": "YOUTUBE_LIVE"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"}
             ]
