@@ -442,7 +442,7 @@
             ]
         },
         {
-            "device": "ocean,channel",
+            "device": "ocean",
             "features": [
                 {"feature": "CDS_DEFAULT_ON"},
                 {"feature": "CINEMAGRAPH"},
@@ -453,6 +453,25 @@
                 {"feature": "PRO_MODE_NEW_FEATURES"},
                 {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "SELECTIVE_COLOR"},
+                {"feature": "SINGLE_REAR_BOKEH"},
+                {"feature": "VIDEO_TIMELAPSE"},
+                {"feature": "SHOW_AR_STICKERS_DOT"},
+                {"feature": "SHOW_FILTER_DOT"},
+                {"feature": "TRANSLUCENT_DISPLAY_FLASH"},
+                {"feature": "YOUTUBE_LIVE"}
+            ]
+        },
+        {
+            "device": "channel",
+            "features": [
+                {"feature": "CDS_DEFAULT_ON"},
+                {"feature": "CINEMAGRAPH"},
+                {"feature": "FILE_FORMAT"},
+                {"feature": "RETAIN_ZOOM_LEVEL"},
+                {"feature": "LIB_3A", "value": "1"}, //0: moto, 1: qcom or mtk, 2: samsung
+                {"feature": "PRO_MODE"},
+                {"feature": "PRO_MODE_NEW_FEATURES"},
+                {"feature": "GOOGLE_AR_STICKERS", "exclude-region": "cn"},
                 {"feature": "SINGLE_REAR_BOKEH"},
                 {"feature": "VIDEO_TIMELAPSE"},
                 {"feature": "SHOW_AR_STICKERS_DOT"},
