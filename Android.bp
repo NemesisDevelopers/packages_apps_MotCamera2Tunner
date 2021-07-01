@@ -1,7 +1,6 @@
 android_app {
     name: "MotCamera2Tunner",
     resource_dirs: ["res"],
-    asset_dirs: ["assets"],
     sdk_version: "29",
     min_sdk_version: "29",
     target_sdk_version: "30",
